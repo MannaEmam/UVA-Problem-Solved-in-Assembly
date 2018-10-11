@@ -1,0 +1,1 @@
+Here is some uva problem solved by assembly language in emu8086.
